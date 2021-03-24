@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hazieqq
-- 👀 I’m interested in front end and back end developer
-- 🌱 I’m currently learning php, android studio and python
+- 👋 Hi, I’m @hazieqq, a passionate and strong interest in programming
+- 👀 I’m interested in front end and back end developer #cleancode
+- 🌱 I love playing Apex Legend 
 - 📫 Do visit my Instagram account @hazieqqqqqq
 
 
