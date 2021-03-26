@@ -12,4 +12,7 @@
 [twitter]: https://twitter.com/hazieq_muhammad
 [instagram]: https://www.instagram.com/hazieqqqqqq/
 
+<br>
+<img align="left" alt="hazieqq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazieqq&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
+<img align="left" alt="hazieqq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazieqq&theme=dracula&hide=Swift,Kotlin,Objective-C,HTML,CSS,Tex" />
 
