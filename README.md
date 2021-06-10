@@ -29,5 +29,6 @@
 <img align="left" alt="hazieqq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazieqq&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
 <img align="left" alt="hazieqq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazieqq&theme=dracula&hide=Swift,Kotlin,Objective-C,HTML,CSS,Tex" />
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b4322813-bde0-40ec-a5f6-5e27225c5a82" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b4322813-bde0-40ec-a5f6-5e27225c5a82" data-share-badge-host="https://www.credly.com"></div>
+
 
