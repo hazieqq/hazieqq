@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hazieqq, a passionate and strong interest in programming
+- 👋 Hi, I’m @hazieqq, a passionate and very ambitious in programming
 - 👀 I’m interested in front end and back end developer #cleancode
 
 
